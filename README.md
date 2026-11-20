@@ -1,35 +1,29 @@
-Python Beginner Projects 🐍
 
-Welcome to my Python learning journey!
+Hi, I'm a Python Developer in Training! 👋
 
-This repository contains my Python practice programs and beginner projects.
+Welcome to my GitHub profile!
 
 About Me
 
-I am learning Python programming and exploring technology, AI, and software development.
+- 🌱 Currently learning Python.
+- 💻 Building beginner programming projects.
+- 🚀 Exploring Artificial Intelligence and technology.
+- 🎯 Working towards becoming a skilled software developer.
 
-Projects
+Skills
 
-- First Python Program
+- Python
+- Git and GitHub
+- Programming Fundamentals
 
-Skills I'm Learning
+My Projects
 
-- Python Basics
-- Variables and Data Types
-- Conditions and Loops
-- Functions
-- Lists and Dictionaries
+- Python Calculator
+- Number Guessing Game
+- Student Management System
 
 My Goal
 
-To become a skilled programmer and build useful real-world projects.
+To learn, build, improve, and create useful technology.
 
-Thank you for visiting my repository! 🚀
-Projects
-
-1. First Python Program – Basic Python output and input.
-2. Python Calculator – Addition, subtraction, multiplication and division.
-3. Number Guessing Game – Random numbers, loops and conditions.
-
-More projects coming soon! 🚀
--Student management system - uses dictionaries, functions and loops.
+Thanks for visiting my profile! 😊
