@@ -25,3 +25,10 @@ My Goal
 To become a skilled programmer and build useful real-world projects.
 
 Thank you for visiting my repository! 🚀
+Projects
+
+1. First Python Program – Basic Python output and input.
+2. Python Calculator – Addition, subtraction, multiplication and division.
+3. Number Guessing Game – Random numbers, loops and conditions.
+
+More projects coming soon! 🚀
