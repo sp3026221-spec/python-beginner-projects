@@ -32,3 +32,4 @@ Projects
 3. Number Guessing Game – Random numbers, loops and conditions.
 
 More projects coming soon! 🚀
+-Student management system - uses dictionaries, functions and loops.
